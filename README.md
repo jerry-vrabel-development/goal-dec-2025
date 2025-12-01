@@ -1,8 +1,38 @@
 # Goal‑Dec‑2025 *(2025‑12‑01 – 2025‑12‑31)*
 
-> **Goal:** Submit 500 professional resumes in pursuit of a senior web‑engineer
+**Goal:** Submit 500 professional resumes in pursuit of a senior web‑engineer
 position by the end of December 2025.
 
+## Target Your Efforts
+- **Focus on 200-300 quality applications** rather than just 500 random
+submissions
+- Identify 50-100 companies you'd actually want to work for (not just any
+job)
+- Use LinkedIn, job boards, and company websites to find opportunities
+
+## Efficient Application Process
+- **Create templates** for your resume and cover letter (personalize
+20-30%)
+- Batch process applications (2-3 hours daily)
+- Use job boards like LinkedIn, Indeed, Glassdoor, AngelList, and company
+career pages
+- Consider niche platforms for senior engineers (Stack Overflow Jobs,
+GitHub Jobs, etc.)
+
+## Quality Over Quantity
+- **Tailor each application** to the specific role and company
+- **Customize your resume** for each position (highlight relevant
+experience)
+- **Follow up** on 10-20 applications with brief outreach
+
+## Daily Strategy
+- 2-3 hours of focused application work
+- 1 hour of networking (LinkedIn, industry events)
+- 30 minutes of portfolio/website updates
+
+## Track Progress
+- Use a spreadsheet to track applications, responses, and interviews
+- Set daily targets (e.g., 15-20 applications per day)
 ---
 
 ## 📖 Overview

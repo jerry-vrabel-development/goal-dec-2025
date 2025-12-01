@@ -1,0 +1,91 @@
+# ---------------------------------------------------
+# General Python / Virtual‑Environment artifacts
+# ---------------------------------------------------
+# Byte‑compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.env/
+# (if you named the venv folder something else, just add it here)
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Distribution / build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+*.eggs
+pip-wheel-metadata/
+sdist/
+*.whl
+pip-log.txt
+pip-delete-this-directory.txt
+
+# pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+# (if you use poetry, add the above)
+
+# Conda
+conda-meta/
+envs/
+
+# ---------------------------------------------------
+# IDE / Editor specific
+# ---------------------------------------------------
+# VS Code
+.vscode/
+# PyCharm / IntelliJ
+.idea/
+# Eclipse
+*.project
+*.pydevproject
+
+# ---------------------------------------------------
+# Testing / Coverage
+# ---------------------------------------------------
+.coverage
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# ---------------------------------------------------
+# Misc
+# ---------------------------------------------------
+# Environment variable files
+.env
+# Logs
+*.log
+# System files
+.DS_Store
+Thumbs.db
+
+# ---------------------------------------------------
+# Optional: ignore Jupyter Notebooks checkpoints
+# ---------------------------------------------------
+.ipynb_checkpoints/
+
+# ---------------------------------------------------
+# Optional: ignore generated resume PDFs / DOCX
+# ---------------------------------------------------
+# If you don't want your output files in Git, uncomment:
+# /output/
+# /resumes/
+# /emails/

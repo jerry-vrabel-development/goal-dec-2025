@@ -1,0 +1,4 @@
+company,role,email,address,job_link
+Acme Corp,Senior Software Engineer,hr@acme.com,"123 Main St, Boston,MA","https://acme.com/jobs/12345"
+Globex Inc.,Backend Lead,careers@globex.com,"987 Elm St, Seattle,WA","https://globex.com/jobs/98765"
+Initech,Full‑Stack Developer,apply@initech.com,"456 Oak St, Austin,TX","https://initech.com/jobs/45678"

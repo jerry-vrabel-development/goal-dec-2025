@@ -1,0 +1,373 @@
+[
+  {
+    "Company": "Northwestern University",
+    "Position": "Developer",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": "Pay rate was low 96k was top"
+  },
+  {
+    "Company": "DoIT",
+    "Position": "Advanced Web Development/Support Technical Specialist",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Shure",
+    "Position": "Engineer Sr, Full Stack Developer (typescript)",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Super League",
+    "Position": "Sr. Frontend Web Developer ",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Wealthfront",
+    "Position": "Software Engineer, Frontend ",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Upside Search",
+    "Position": "Lead Technical Architect",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "AutoPylot",
+    "Position": "Technical Co-Founder (Full-Stack / AI / Software Engineering)",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Rec",
+    "Position": "Sr Full Stack Engineer (Backend Leaning)",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "N3XA",
+    "Position": "Senior Software Engineer",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "SunCore Digital",
+    "Position": "Senior Full Stack developer",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Prenuvo",
+    "Position": "Staff Full Stack Engineer",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Surfside",
+    "Position": "Senior Software Engineer (Advertising Infrastructure)",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "swivl",
+    "Position": "Sr. Full Stack Engineer",
+    "Date Applied": "2025-12-01",
+    "Status": "Rejected",
+    "Notes": NaN
+  },
+  {
+    "Company": "Sitewire",
+    "Position": "Full-Stack Web Engineer",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "RoleColorAI",
+    "Position": "Full-Stack Engineer \u2014 0.01% Equity",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": "Equity only?"
+  },
+  {
+    "Company": "The Operative Company",
+    "Position": "Senior Full-Stack Engineer",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Inkognido",
+    "Position": "LEAD FULL-STACK ENGINEER (DECK TEAM)",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": "Chicago - $60-70K \u00b7 1.0-5.0%"
+  },
+  {
+    "Company": "SwiftPrep",
+    "Position": "Full-Stack Engineer",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "olive",
+    "Position": "Software Engineer / Senior Software Engineer - Backend",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "MOLTEN Cloud",
+    "Position": "Senior Software Engineer (fully remote domestically in USA)",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "1848 Ventures",
+    "Position": "Full Stack Software Engineer",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Tandym Tech",
+    "Position": "Technical Lead / Architect",
+    "Date Applied": "2025-12-01",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Tek Systems",
+    "Position": "React Developer",
+    "Date Applied": "2025-12-03",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Braze",
+    "Position": "Senior Software Engineer, Reporting",
+    "Date Applied": "2025-12-03",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Seeq",
+    "Position": "Staff Full Stack Software Engineer (JVM/React)",
+    "Date Applied": "2025-12-03",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "AmeriSave Mortgage Corp",
+    "Position": "Senior AI Full Stack Engineer",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Perfect Path, LLC, d/b/a Trajector Services",
+    "Position": "Senior Software Engineer",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Auggie",
+    "Position": "Lead Software Engineer (Full Stack, Remote)",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "MTech Systems",
+    "Position": "Sr. Software Engineer [100% Remote]",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Credit Acceptance",
+    "Position": "Senior Software Engineer, CCaaS",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Pyramid Consulting, Inc",
+    "Position": "Software Engineer / Full stack Engineer",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": "Remote $70 - $85 an hour - Contract"
+  },
+  {
+    "Company": "Northwest Management, Inc",
+    "Position": "Senior Software Engineer",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Rechat Inc.",
+    "Position": "Senior Back-End Engineer",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Metaculus",
+    "Position": "Full-Stack Engineer",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Facet",
+    "Position": "Senior Software Engineer",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Power My Analytics",
+    "Position": "Senior Frontend Engineer",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Troveo, Inc.",
+    "Position": "Senior Frontend Engineer (Extensions, Plugins & High-Performance Interfaces)",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Seamless.AI",
+    "Position": "Senior Growth Full-Stack Engineer - Remote US",
+    "Date Applied": "2025-12-04",
+    "Status": "Rejected",
+    "Notes": "We offer \"Fully Remote\" roles only in these states. AL, AZ, DE, FL, GA, IN, KS, KY, LA, MA, MD, MI, MO, NC, NE, NJ, NM, NV, NY(excluding NYC), OH, PA, SC, TN, TX, UT, and WI. *"
+  },
+  {
+    "Company": "Galactic Advisors",
+    "Position": "Senior Full Stack PHP Developer - Remote",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": "$75,000 - $125,000 a year"
+  },
+  {
+    "Company": "PrintMail Solutions",
+    "Position": "Software Engineering Manager",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": "144,450 a year - Full-time"
+  },
+  {
+    "Company": "Rise Technical Recruitment Limited",
+    "Position": "Senior Backend Engineer",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "BigTime Software",
+    "Position": "Senior Software Engineer",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": "$120K \u2013 $145K/yr"
+  },
+  {
+    "Company": "DS Technologies Inc",
+    "Position": "Full Stack Developer - Axiom",
+    "Date Applied": "2025-12-04",
+    "Status": NaN,
+    "Notes": NaN
+  },
+  {
+    "Company": "NOCD",
+    "Position": "Full Stack Engineer",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": "Chicago"
+  },
+  {
+    "Company": "Synchrony",
+    "Position": "AVP, Principal Frontend Engineer",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": "Chicago"
+  },
+  {
+    "Company": "Equity Residential",
+    "Position": "Sr Software Engineer, Data & Analytics Products",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": "Chicago"
+  },
+  {
+    "Company": "Avant LLC",
+    "Position": "Principal Software Engineer (Digital Servicing)",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": "Chicago"
+  },
+  {
+    "Company": "Tastytrade",
+    "Position": "Software Engineer II",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": "Chicago"
+  },
+  {
+    "Company": "JLL Technologies",
+    "Position": "Senior Software Engineer",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": "Chicago"
+  },
+  {
+    "Company": "Crowe",
+    "Position": "Senior Full Stack Engineer",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": "Chicago"
+  },
+  {
+    "Company": "Turing",
+    "Position": "Senior Software Engineer",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": "Chicago"
+  },
+  {
+    "Company": "GlobalLogic",
+    "Position": "Javascript Developer",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": NaN
+  },
+  {
+    "Company": "Visionaire Partners",
+    "Position": "Senior React Developer",
+    "Date Applied": "2025-12-04",
+    "Status": "Submitted",
+    "Notes": NaN
+  }
+]

@@ -166,8 +166,7 @@ function loadData() {
 
         function updateDashboard() {
             // Update summary cards
-            document.getElementById('total-applications').textContent =
-applicationsData.length;
+            document.getElementById('total-applications').textContent = applicationsData.length;
 
             const responses = applicationsData.filter(app => app.status
 === "Response Received").length;

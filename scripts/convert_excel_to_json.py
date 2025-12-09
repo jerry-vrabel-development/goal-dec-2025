@@ -8,7 +8,8 @@ def convert_excel_to_json(excel_file, json_file):
     try:
         # Read the Excel file
         df = pd.read_excel(excel_file)
-
+        # Replace NaN values with empty strings
+        df = df.fillna('')
         # Rename columns to match dashboard expectations
         column_mapping = {
             'Date': 'Date Applied',

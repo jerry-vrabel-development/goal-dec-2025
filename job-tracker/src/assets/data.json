@@ -504,9 +504,261 @@
     "Notes": "$100,000 - $120,000"
   },
   {
-    "Company": "",
-    "Position": "",
+    "Company": "Circle",
+    "Position": "Senior Front-End Software Engineer",
     "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Metabase",
+    "Position": "Engineering Manager",
+    "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Webflow",
+    "Position": "Staff Software Engineer",
+    "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": "$154-220k"
+  },
+  {
+    "Company": "Overstory",
+    "Position": "Staff Software Engineer",
+    "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Sirona Medical",
+    "Position": "Staff Frontend Software Engineer",
+    "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Zora Labs",
+    "Position": "Senior Front-End Engineer",
+    "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Arize AI",
+    "Position": "Senior AI Product Engineer",
+    "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Motion",
+    "Position": "Principal Software Engineer",
+    "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Cofactr",
+    "Position": "Staff Engineer",
+    "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Trunk Tools",
+    "Position": "Senior Software Engineer",
+    "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Counsel Health",
+    "Position": "Senior Software Engineer",
+    "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "HumanSignal",
+    "Position": "Senior Frontend Engineer",
+    "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Runway",
+    "Position": "Senior/Staff Product Engineer",
+    "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Hang",
+    "Position": "Front End Software Engineer",
+    "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Solace",
+    "Position": "Senior Full Stack Engineer",
+    "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Summer",
+    "Position": "Senior Software Engineer",
+    "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Veza",
+    "Position": "Senior Software Engineer",
+    "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Kraken",
+    "Position": "Senior Frontend Software Engineer",
+    "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Owner.com",
+    "Position": "Senior Full-Stack Software Engineer",
+    "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Gauntlet",
+    "Position": "Software Engineer",
+    "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Stacklok",
+    "Position": "Frontend Software Engineer",
+    "Date Applied": "2025-12-09",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Curri",
+    "Position": "Senior Software Engineer",
+    "Date Applied": "2025-12-10",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Metabase",
+    "Position": "Frontend Software Engineer",
+    "Date Applied": "2025-12-10",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Circle",
+    "Position": "Senior Full-Stack Software Engineer",
+    "Date Applied": "2025-12-10",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Webflow",
+    "Position": "Senior Software Engineer",
+    "Date Applied": "2025-12-10",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "LogicGate",
+    "Position": "Senior Software Engineer",
+    "Date Applied": "2025-12-10",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Parkade",
+    "Position": "Senior Frontend Software Engineer",
+    "Date Applied": "2025-12-10",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Sound",
+    "Position": "Staff Frontend Software Engineer",
+    "Date Applied": "2025-12-10",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Nova Credit",
+    "Position": "Mid Level Software Engineer",
+    "Date Applied": "2025-12-10",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Mosey",
+    "Position": "Senior Full Stack Software Engineer",
+    "Date Applied": "2025-12-10",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Euclid Power",
+    "Position": "Senior Software Engineer",
+    "Date Applied": "2025-12-10",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "ONE",
+    "Position": "Software Engineer",
+    "Date Applied": "2025-12-10",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Human Interest",
+    "Position": "Senior Software Engineer",
+    "Date Applied": "2025-12-10",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Bonterra",
+    "Position": "Senior Front-End Software Engineer",
+    "Date Applied": "2025-12-10",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Valon Mortgage",
+    "Position": "Senior Software Engineer",
+    "Date Applied": "2025-12-10",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Otter Waiver",
+    "Position": "Full Stack Development",
+    "Date Applied": "2025-12-10",
+    "Status": "Submitted",
+    "Notes": ""
+  },
+  {
+    "Company": "Turnitin",
+    "Position": "Principal Frontend Software Engineer",
+    "Date Applied": "2025-12-10",
     "Status": "",
     "Notes": ""
   }
